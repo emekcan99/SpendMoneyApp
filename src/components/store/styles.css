@@ -1,0 +1,30 @@
+.store{
+    margin-top: 20px;
+
+    color: aqua;
+    align-items: center;
+    align-content: center;
+    
+}
+
+.Card{
+    width: 300px;
+    height: 400px;
+}
+.Button{
+    background-color: #00be5c;
+    font-style: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #471b07;
+}
+.Button-2{
+    background-color: #f17789;
+    font-style: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #471b07;
+    
+}
+.numberbox{
+    width: 50px;
+    margin: 5px;
+}
